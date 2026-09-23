@@ -1,4 +1,4 @@
-MatTalk – [Project Details in Notion](https://kimheejoo.notion.site/mattalk?pvs=4)
+# MatTalk
 
 - `main.py`: Backend server (connected to Bedrock Claude 3.5 Sonnet)  
 - `index.html`: Landing page (Start)  
